@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 55,
     "width": 65,
-    "x": 600,
-    "y": 574
+    "x": 513,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,7 +32,7 @@
       "id": "6BC00168-56B2-4E93-822A-D6665D3D0FEE"
     }
   ],
-  "name": "search-button",
+  "name": "email-input-button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

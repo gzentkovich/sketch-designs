@@ -54,16 +54,8 @@
       "id": "7106EEC9-1321-4A68-9529-B5942EE21595"
     },
     {
-      "class": "shapeGroup",
-      "id": "C386415D-5509-4C9B-9DF7-03BC68D6569E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "13A8E252-8C67-4F95-A788-C9497C3EFF0D"
-    },
-    {
-      "class": "text",
-      "id": "F7F28A63-7AC2-4392-B5DF-23126DED0B03"
+      "class": "group",
+      "id": "03DF8E2F-8A03-4C5F-9655-7460CFE1BF9E"
     }
   ],
   "name": "Desktop HD",

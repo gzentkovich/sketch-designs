@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 55,
     "width": 578,
-    "x": 87,
-    "y": 574
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,7 +32,7 @@
       "id": "CE9A0CD2-BF01-40E2-9F71-BC4672295A3D"
     }
   ],
-  "name": "search-bar",
+  "name": "email-input-bar",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

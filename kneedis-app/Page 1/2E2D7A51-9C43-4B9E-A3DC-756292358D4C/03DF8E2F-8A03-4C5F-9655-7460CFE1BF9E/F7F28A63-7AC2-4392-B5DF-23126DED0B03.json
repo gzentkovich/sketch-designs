@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 43,
     "width": 367,
-    "x": 126,
-    "y": 578
+    "x": 39,
+    "y": 4
   },
   "glyphBounds": "{{2, 9}, {361, 27}}",
   "heightIsClipped": false,
@@ -34,8 +34,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "become a beta tester",
-  "nameIsFixed": false,
+  "name": "email-input-text",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
