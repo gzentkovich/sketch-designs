@@ -41,8 +41,8 @@
       "id": "48094B43-AAEF-4B83-BAAD-FEB751E450CE"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Homepage",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
