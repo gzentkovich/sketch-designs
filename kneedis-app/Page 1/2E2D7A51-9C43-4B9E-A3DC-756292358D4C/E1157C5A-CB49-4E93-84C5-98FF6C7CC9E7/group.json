@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E1157C5A-CB49-4E93-84C5-98FF6C7CC9E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 752,
+    "width": 366,
+    "x": 847,
+    "y": 172
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F9465308-E4A2-4F21-84D1-69CFB0B6747D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DED3E0A9-8A43-4517-96D4-05C9AA54153F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1FE76F3-E91A-4E21-A383-36CE3AD1CEDA"
+    }
+  ],
+  "name": "Hero-iPhone-Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.766091051805338,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

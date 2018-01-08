@@ -25,6 +25,12 @@
     "x": -44,
     "y": -97
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
@@ -60,6 +66,18 @@
     {
       "class": "group",
       "id": "5BC31B62-B292-4595-92B5-EF319BF6A5D8"
+    },
+    {
+      "class": "group",
+      "id": "E1157C5A-CB49-4E93-84C5-98FF6C7CC9E7"
+    },
+    {
+      "class": "group",
+      "id": "116762DF-F7D0-4C26-8865-3C0B7C7DBBD9"
+    },
+    {
+      "class": "group",
+      "id": "3E4F6CE3-4E57-40B1-8391-765B4601B704"
     }
   ],
   "name": "Desktop HD",
