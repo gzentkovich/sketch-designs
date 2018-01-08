@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "59458468-122D-4911-98D3-3A3AF24A688B",
+  "do_objectID": "63CD35B1-A64A-4EF6-8F8F-17BA5AE8C231",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": true,
     "height": 105,
     "width": 105,
-    "x": 74,
-    "y": 40
+    "x": 21,
+    "y": 24
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,18 +25,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "79FF67A9-7184-487A-B8D3-77FEB50A3E41"
+      "id": "D172175E-8E5C-4ABA-B9DD-A9D2D4E3B2F3"
+    },
+    {
+      "class": "oval",
+      "id": "A6ABFFFF-0ADD-452F-9F0B-CC6FE3816635"
     }
   ],
-  "name": "logo-background",
+  "name": "Combined Shape Copy 2",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -54,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,9 +67,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.2142342959516509,
+          "green": 0.8001700680272109,
+          "red": 0.5101614535655701
         },
         "fillType": 0,
         "isEnabled": true,

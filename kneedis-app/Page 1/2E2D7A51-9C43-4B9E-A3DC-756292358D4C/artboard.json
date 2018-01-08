@@ -46,20 +46,20 @@
       "id": "08AD3FBC-8842-4C01-BCB5-90BAF3CBE215"
     },
     {
-      "class": "text",
-      "id": "1C4180BD-003A-476E-B2CF-133F21ED450A"
-    },
-    {
-      "class": "text",
-      "id": "7106EEC9-1321-4A68-9529-B5942EE21595"
+      "class": "group",
+      "id": "52F7DE12-D24E-4980-A29B-1B8BDE64F07A"
     },
     {
       "class": "group",
       "id": "03DF8E2F-8A03-4C5F-9655-7460CFE1BF9E"
     },
     {
-      "class": "shapeGroup",
-      "id": "59458468-122D-4911-98D3-3A3AF24A688B"
+      "class": "group",
+      "id": "23FE1480-2E31-47E0-ABE2-B58396920483"
+    },
+    {
+      "class": "group",
+      "id": "5BC31B62-B292-4595-92B5-EF319BF6A5D8"
     }
   ],
   "name": "Desktop HD",

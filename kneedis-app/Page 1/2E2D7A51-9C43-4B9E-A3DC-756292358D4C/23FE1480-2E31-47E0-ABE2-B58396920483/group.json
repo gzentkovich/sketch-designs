@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "03DF8E2F-8A03-4C5F-9655-7460CFE1BF9E",
+  "do_objectID": "23FE1480-2E31-47E0-ABE2-B58396920483",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,36 +13,40 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
-    "width": 615,
-    "x": 50,
-    "y": 572
+    "height": 22,
+    "width": 355,
+    "x": 1035,
+    "y": 35
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "C386415D-5509-4C9B-9DF7-03BC68D6569E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "13A8E252-8C67-4F95-A788-C9497C3EFF0D"
+      "class": "text",
+      "id": "47456ADA-37DA-49B9-8D00-1C84A699D133"
     },
     {
       "class": "text",
-      "id": "F7F28A63-7AC2-4392-B5DF-23126DED0B03"
+      "id": "C306F7A7-BCF9-49FB-9672-F408A80522C9"
     },
     {
-      "class": "bitmap",
-      "id": "1D171E60-C431-4C7F-A3D0-2AD441C4E194"
+      "class": "text",
+      "id": "58499C27-361A-431D-B1B3-F1A077E9737A"
+    },
+    {
+      "class": "text",
+      "id": "C54A5811-7331-4719-8A72-F46E282B4BB9"
+    },
+    {
+      "class": "text",
+      "id": "2A66A1A4-C04B-4374-861D-E6E20C0F1FD4"
     }
   ],
-  "name": "Email-Input-Group",
+  "name": "Navigation",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
